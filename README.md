@@ -1,4 +1,4 @@
-# de03_dataops
+CRIAÇÃO DE PIPELINE UTILIZANDO PYTHON
 
 ## Grupo:
 - Arthur Bassetti da Cunha
@@ -14,9 +14,9 @@
 
 ## Introdução
 
-Projeto desenvolvido durante a aula de DataOps do curso de MBA de Engenharia de dados turma 03, oferecido pela faculdade Impacta e ministrado pela professora Carolina Zambelli Kamada.
+Projeto desenvolvido durante a aula de DataOps do curso de MBA de Engenharia de dados turma 03, oferecido pela faculdade Impacta.
 
-Nesta disciplica abordamos os seguintes temas:
+Neste projeto abordamos os seguintes temas:
 - Conceito de DataOps
 - Níveis de maturidade de projetos em Engenharia de Dados
 - Tecnologias em Engenharia de Dados
