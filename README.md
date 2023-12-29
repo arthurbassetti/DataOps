@@ -1,11 +1,5 @@
 ## *CRIAÇÃO DE PIPELINE UTILIZANDO PYTHON*
 
-## Grupo:
-- Arthur Bassetti da Cunha
-- Luis Thiago Amorim de Moura
-- Paula Cristina Casarini 
-- Pedro Lucca Ruiz Martinez
-
 ## Projeto Final
 1. [Introdução](#introdução)
 2. [Estrutura do Projeto](#estrutura-do-projeto)
@@ -25,7 +19,7 @@ Neste projeto abordamos os seguintes temas:
 
 
 ## Estrutura do projeto
-O projeto consiste em uma aplicação simples dos conceitos vistos em sala de aula. Iremos desenvolver um pipeline completo da seguinte forma:
+O projeto consiste em uma aplicação simples dos conceitos vistos em sala de aula. Foi desenvolvido um pipeline completo da seguinte forma:
 
 ![alt text](imgs/projeto.png)
 
@@ -46,11 +40,11 @@ O projeto consiste em uma aplicação simples dos conceitos vistos em sala de au
 - Orquestração realizada via airflow
 
 ## Observações Finais
-- Adaptamos o código desenvolvido em aula para que seja possível percorrer todas as páginas da API sem a obrigatoriedade da utilização do Apache AirFlow, conforme autorizado pela professora a não obrigatoriedade do uso da ferramenta.
+- Foi adaptado o código desenvolvido em aula para que seja possível percorrer todas as páginas da API sem a obrigatoriedade da utilização do Apache AirFlow, conforme autorizado pela professora a não obrigatoriedade do uso da ferramenta.
 - Foram gerados arquivos .json na pasta “raw” com os dados extraídos da API. Cada arquivo possui 10 ítens. 
 - Não foi gerado nenhum arquivo log por não ter ocorrido nenhum erro, mas no script consta a tratativa.
 - Além dos arquivos CSV gerados na pasta “work”, ao final é gerado o “sw.csv” na pasta “dw” (data warehouse).
-- Para rodar o código 'main.py', recomendamos a exclusão de todo conteúdo presente dentro das pastas "dw", "raw" e "work".
+- Para rodar o código 'main.py', recomendo a exclusão de todo conteúdo presente dentro das pastas "dw", "raw" e "work".
 
 
 
