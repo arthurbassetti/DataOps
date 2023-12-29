@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Projeto desenvolvido durante a aula de DataOps do curso de MBA de Engenharia de dados turma 03, oferecido pela faculdade Impacta.
+Projeto desenvolvido durante a aula de DataOps do curso de MBA de Engenharia de dados, oferecido pela faculdade Impacta.
 
 Neste projeto abordamos os seguintes temas:
 - Conceito de DataOps
